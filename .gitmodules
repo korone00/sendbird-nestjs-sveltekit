@@ -1,0 +1,4 @@
+[submodule "sendbird-platform-sdk-typescript"]
+	path = sendbird-platform-sdk-typescript
+	url = git@github.com:korone00/sendbird-platform-sdk-typescript.git
+	branch = korone
